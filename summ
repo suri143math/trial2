@@ -1,0 +1,5 @@
+def sum(x,y):
+    z=x+y
+    return z
+
+print('sum is =',sum(2,5))
