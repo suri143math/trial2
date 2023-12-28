@@ -1,0 +1,5 @@
+def productvalues(x,y):
+    z=x*y
+    return z
+
+print("product is",productvalues(2,6))
